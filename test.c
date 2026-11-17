@@ -18,9 +18,7 @@ int main(){
     else if (result < 0){
         printf("-1\n");
     }
-    else{
-        printf("1\n");
-    }
+
 
 
 
